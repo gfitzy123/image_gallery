@@ -1,0 +1,26 @@
+Wed, 02 Oct 2013 19:17:38 -0400
+./app/controllers/application_controller.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./app/helpers/application_helper.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./bin/bundle	Wed, 02 Oct 2013 19:14:05 -0400
+./bin/rails	Wed, 02 Oct 2013 19:14:05 -0400
+./bin/rake	Wed, 02 Oct 2013 19:14:05 -0400
+./config/application.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/boot.rb	Wed, 02 Oct 2013 19:14:07 -0400
+./config/environment.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/environments/development.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/environments/production.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/environments/test.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/initializers/backtrace_silencers.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/initializers/filter_parameter_logging.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/initializers/inflections.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/initializers/mime_types.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./config/initializers/secret_token.rb	Wed, 02 Oct 2013 19:14:07 -0400
+./config/initializers/session_store.rb	Wed, 02 Oct 2013 19:14:07 -0400
+./config/initializers/wrap_parameters.rb	Wed, 02 Oct 2013 19:14:07 -0400
+./config/routes.rb	Wed, 02 Oct 2013 19:14:05 -0400
+./db/seeds.rb	Wed, 02 Oct 2013 19:14:07 -0400
+./Gemfile	Wed, 02 Oct 2013 19:16:51 -0400
+./public/robots.txt	Wed, 02 Oct 2013 19:14:07 -0400
+./Rakefile	Wed, 02 Oct 2013 19:14:05 -0400
+./README.rdoc	Wed, 02 Oct 2013 19:14:05 -0400
+./test/test_helper.rb	Wed, 02 Oct 2013 19:14:07 -0400
